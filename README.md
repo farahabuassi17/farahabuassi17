@@ -64,6 +64,9 @@ I have strong experience in Frontend Development and I’m building my career pa
   <a href="https://www.linkedin.com/in/farah-abuassi-13466737b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Farah_AbuAssi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:farahabuassi16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
