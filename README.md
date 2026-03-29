@@ -3,7 +3,7 @@
   <span style="background: linear-gradient(90deg,#0A66C2,#4FACFE,#00C6FF);
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;">
-    Farah Abu Assi
+    Farah M T Abu Assi
   </span>
 </h1>
 
@@ -17,7 +17,7 @@
 
 🎓 Software Development Student at the Islamic University of Gaza  
 💙 Passionate about Backend Development & API Building  
-🚀 Currently learning **Node.js & MongoDB**  
+🚀 Currently learning **Node.js & laravel 12**  
 🎯 Goal: Becoming a Professional Full-Stack Engineer  
 
 I have strong experience in Frontend Development and I’m building my career path toward Backend and Full-Stack development.
@@ -27,14 +27,14 @@ I have strong experience in Frontend Development and I’m building my career pa
 ## 🛠 Backend Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
+### 🛠 Backend Stack
+![Laravel](https://img.shields.io/badge/Laravel%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23007acc.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
 </p>
 
 ---
-
 ## 🎨 Frontend Stack
 
 <p align="center">
@@ -44,6 +44,10 @@ I have strong experience in Frontend Development and I’m building my career pa
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+---
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
 ## 💻 Tools & Technologies
