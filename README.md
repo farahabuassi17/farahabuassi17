@@ -1,9 +1,10 @@
-<!-- 🌊 Gradient Name + Typing Animation -->
+<!-- Gradient Name + Typing Animation -->
 <h1 align="center">
-  <span style="background: linear-gradient(90deg,#0A66C2,#4FACFE,#00C6FF);
+  <span style="background: linear-gradient(90deg, #00f2fe 0%, #4facfe 100%);
                -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    Farah M T Abu Assi
+               -webkit-text-fill-color: transparent;
+               text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+    Farah M T Abu Assi 
   </span>
 </h1>
 
