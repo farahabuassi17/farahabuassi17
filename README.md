@@ -52,7 +52,7 @@ I have strong experience in Frontend Development and I’m building my career pa
 ---
 ## 💻 Tools & Technologies
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -64,7 +64,7 @@ I have strong experience in Frontend Development and I’m building my career pa
 
 ## 🌐 Let's Connect
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/farah-abuassi-13466737b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Farah_AbuAssi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
