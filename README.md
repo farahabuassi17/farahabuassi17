@@ -1,10 +1,34 @@
 <!-- Gradient Name + Typing Animation -->
-<div align="center" style="background: linear-gradient(90deg, #000000 0%, #002d5e 50%, #000000 100%); padding: 40px; border-radius: 15px; border: 1px solid #30363d;">
-  <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; font-size: 35px; letter-spacing: 2px;">
+<div align="center" style="
+    background: linear-gradient(135deg, #000000 0%, #001f3f 50%, #0074D9 100%);
+    padding: 50px 20px;
+    border-radius: 0 0 50% 50% / 0 0 15% 15%;
+    color: white;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin-bottom: 30px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+">
+  
+  <h1 style="
+      font-size: 42px;
+      margin: 0;
+      letter-spacing: 1.5px;
+      font-weight: 700;
+      text-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+  ">
     Farah M T Abu Assi
   </h1>
-  <p style="color: #58a6ff; font-size: 18px; margin-top: 10px; font-weight: bold;">
+
+  <p style="
+      font-size: 18px;
+      margin-top: 10px;
+      opacity: 0.9;
+      font-weight: 400;
+      letter-spacing: 1px;
+  ">
+    Backend & Frontend Developer | Future Full-Stack Engineer
   </p>
+
 </div>
 ---
 
