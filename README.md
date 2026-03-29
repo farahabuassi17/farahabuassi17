@@ -7,6 +7,7 @@
   </span>
 </h1>
 ---
+
 ## 👩‍💻 About Me
 
 🎓 Software Development Student at the Islamic University of Gaza  
