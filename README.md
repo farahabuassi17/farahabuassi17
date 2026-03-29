@@ -1,7 +1,12 @@
 <!-- Gradient Name + Typing Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&secondaryColor=0d1117&text=Farah%20M%20T%20Abu%20Assi&fontSize=35&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
-</p>
+<div align="center" style="background: linear-gradient(90deg, #000000 0%, #002d5e 50%, #000000 100%); padding: 40px; border-radius: 15px; border: 1px solid #30363d;">
+  <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; font-size: 35px; letter-spacing: 2px;">
+    Farah M T Abu Assi
+  </h1>
+  <p style="color: #58a6ff; font-size: 18px; margin-top: 10px; font-weight: bold;">
+    Full-Stack Developer | Laravel & Node.js
+  </p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Backend+Developer;Frontend+Developer;Node.js+%7C+MongoDB+%7C+REST+APIs;Future+Full-Stack+Engineer" />
