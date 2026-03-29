@@ -1,12 +1,7 @@
 <!-- Gradient Name + Typing Animation -->
-<h1 align="center">
-  <span style="background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               font-weight: bold;">
-    Farah M T Abu Assi 
-  </span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&secondaryColor=0d1117&text=Farah%20M%20T%20Abu%20Assi&fontSize=35&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Backend+Developer;Frontend+Developer;Node.js+%7C+MongoDB+%7C+REST+APIs;Future+Full-Stack+Engineer" />
