@@ -27,11 +27,10 @@ I have strong experience in Frontend Development and I’m building my career pa
 ## 🛠 Backend Stack
 
 <p align="center">
-### 🛠 Backend Stack
-![Laravel](https://img.shields.io/badge/Laravel%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23007acc.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+<img src="https://img.shields.io/badge/Laravel%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-%23007acc.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
 ---
@@ -45,11 +44,12 @@ I have strong experience in Frontend Development and I’m building my career pa
 </p>
 
 ---
-### 💾 Databases
+## 💾 Databases
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
----
 
+---
 ## 💻 Tools & Technologies
 
 <p align="center">
