@@ -1,4 +1,3 @@
-<!-- Gradient Name + Typing Animation -->
 <div align="center" style="
     background: linear-gradient(135deg, #000000 0%, #001f3f 50%, #0074D9 100%);
     padding: 50px 20px;
@@ -30,8 +29,6 @@
   </p>
 
 </div>
----
-
 ## 👩‍💻 About Me
 
 🎓 Software Development Student at the Islamic University of Gaza  
