@@ -27,7 +27,7 @@ I have strong experience in Frontend Development and I’m building my career pa
 ## 🛠 Backend Stack
 
 <p align="start">
-<img src="https://img.shields.io/badge/laravel%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-%23007acc.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
