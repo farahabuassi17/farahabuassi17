@@ -1,12 +1,12 @@
-<div align="center" style="background: linear-gradient(135deg, #000000 0%, #001f3f 50%, #0074D9 100%); padding: 50px 20px; border-radius: 0 0 50% 50% / 0 0 15% 15%; color: white; fontfamily:'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin-bottom: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">  
-  <h1 style="font-size: 42px; margin: 0; letter-spacing: 1.5px; font-weight: 700; text-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+<!-- Gradient Name + Typing Animation -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#0A66C2,#4FACFE,#00C6FF);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
     Farah M T Abu Assi
-  </h1>
-  <p style="font-size: 18px; margin-top: 10px; opacity: 0.9; font-weight: 400; letter-spacing: 1px;">
-    Backend & Frontend Developer | Future Full-Stack Engineer
-  </p>
-
-</div>
+  </span>
+</h1>
+---
 ## 👩‍💻 About Me
 
 🎓 Software Development Student at the Islamic University of Gaza  
