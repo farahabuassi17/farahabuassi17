@@ -4,14 +4,8 @@
     Farah M T Abu Assi
   </h1>
   <p style="color: #58a6ff; font-size: 18px; margin-top: 10px; font-weight: bold;">
-    Full-Stack Developer | Laravel & Node.js
   </p>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Backend+Developer;Frontend+Developer;Node.js+%7C+MongoDB+%7C+REST+APIs;Future+Full-Stack+Engineer" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
