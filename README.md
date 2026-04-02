@@ -12,7 +12,7 @@
 
 🎓 Software Development Student at the Islamic University of Gaza  
 💙 Passionate about Backend Development & API Building  
-🚀 Currently learning **Node.js & laravel 12**  
+🚀 Currently learning **laravel 12**  
 🎯 Goal: Becoming a Professional Full-Stack Engineer  
 
 I have strong experience in Frontend Development and I’m building my career path toward Backend and Full-Stack development.
